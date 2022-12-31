@@ -1,0 +1,2 @@
+Tamperproof IoT with Blockchain
+We investigate the tamper-resistant property of Blockchain and its effectiveness for IoT systems. In particular, we implemented an IoT testbed, and built a Blockchain into the testbed. A number of tamper-resistance experiments were conducted and analyzed to corroborate the process of block validation in Blockchain. Our analysis and experimental results demonstrate the tamper-resistant capability of Blockchain in securing trust in IoT systems. The demonstration video is provided at [1].

@@ -1,0 +1,2 @@
+A Proof of Stavi's Theorem
+Kamp's theorem established the expressive equivalence of the temporal logic with Until and Since and the First-Order Monadic Logic of Order (FOMLO) over the Dedekind-complete time flows. However, this temporal logic is not expressively complete for FOMLO over the rationals. Stavi introduced two additional modalities and proved that the temporal logic with Until, Since and Stavi's modalities is expressively equivalent to FOMLO over all linear orders. We present a simple proof of Stavi's theorem.

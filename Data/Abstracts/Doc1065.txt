@@ -1,0 +1,1 @@
+CBNet: A Plug-and-Play Network for Segmentation-based Scene Text Detection

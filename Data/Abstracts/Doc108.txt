@@ -1,0 +1,1 @@
+A Strong Baseline for Generalized Few-Shot Semantic Segmentation

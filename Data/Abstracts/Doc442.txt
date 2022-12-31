@@ -1,0 +1,1 @@
+NICE: Noise Injection and Clamping Estimation for Neural Network Quantization
