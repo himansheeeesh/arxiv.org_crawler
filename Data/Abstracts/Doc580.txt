@@ -1,1 +1,0 @@
-UPainting: Unified Text-to-Image Diffusion Generation with Cross-modal Guidance

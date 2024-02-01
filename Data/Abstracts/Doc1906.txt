@@ -1,1 +1,0 @@
-imitation: Clean Imitation Learning Implementations

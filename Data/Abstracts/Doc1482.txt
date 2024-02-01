@@ -1,1 +1,0 @@
-Large Dual Encoders Are Generalizable Retrievers

@@ -1,1 +1,0 @@
-Unsupervised Echocardiography Registration through Patch-based MLPs and Transformers

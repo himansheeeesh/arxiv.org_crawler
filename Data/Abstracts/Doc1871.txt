@@ -1,1 +1,0 @@
-Robust Split Federated Learning for U-shaped Medical Image Networks

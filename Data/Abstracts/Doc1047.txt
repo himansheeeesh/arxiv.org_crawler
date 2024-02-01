@@ -1,2 +1,0 @@
-A cost-benefit analysis of low latency via added utilization
-Several recently proposed techniques achieve latency reduction by trading it off for some amount of additional bandwidth usage. But how would one quantify whether the tradeoff is actually beneficial in a given system? We develop an economic cost vs. benefit analysis for answering this question. We use the analysis to derive a benchmark for wide-area client-server applications, and demonstrate how it can be applied to reason about a particular latency saving technique --- redundant DNS requests.

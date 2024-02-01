@@ -1,2 +1,0 @@
-A 333.9uW 0.158mm$^2$ Saber Learning with Rounding based Post-Quantum Crypto Accelerator
-National Institute of Standard & Technology (NIST) is currently running a multi-year-long standardization procedure to select quantum-safe or post-quantum cryptographic schemes to be used in the future. Saber is the only LWR based algorithm to be in the final of Round 3. This work presents a Saber ASIC which provides 1.37X power-efficient, 1.75x lower area, and 4x less memory implementation w.r.t. other SoA PQC ASIC. The energy-hungry multiplier block is 1.5x energyefficient than SoA.

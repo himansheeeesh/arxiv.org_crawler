@@ -1,1 +1,0 @@
-ERNIE-ViL 2.0: Multi-view Contrastive Learning for Image-Text Pre-training

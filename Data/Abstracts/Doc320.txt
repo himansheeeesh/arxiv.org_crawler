@@ -1,1 +1,0 @@
-GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds

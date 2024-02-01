@@ -1,2 +1,0 @@
-Bayesian Experimental Design for Symbolic Discovery
-This study concerns the formulation and application of Bayesian optimal experimental design to symbolic discovery, which is the inference from observational data of predictive models taking general functional forms. We apply constrained first-order methods to optimize an appropriate selection criterion, using Hamiltonian Monte Carlo to sample from the prior. A step for computing the predictive distribution, involving convolution, is computed via either numerical integration, or via fast transform methods.

@@ -1,1 +1,0 @@
-Non-parametric Uni-modality Constraints for Deep Ordinal Classification

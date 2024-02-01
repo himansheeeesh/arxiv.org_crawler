@@ -1,1 +1,0 @@
-Beyond pixel-wise supervision for segmentation: A few global shape descriptors might be surprisingly good!

@@ -1,1 +1,0 @@
-GPViT: A High Resolution Non-Hierarchical Vision Transformer with Group Propagation

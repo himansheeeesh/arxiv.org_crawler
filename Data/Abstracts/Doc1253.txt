@@ -1,1 +1,0 @@
-Untangling Dense Non-Planar Knots by Learning Manipulation Features and Recovery Policies

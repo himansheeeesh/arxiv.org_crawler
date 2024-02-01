@@ -1,1 +1,0 @@
-Is Leakage Power a Linear Function of Temperature?

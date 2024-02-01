@@ -1,1 +1,0 @@
-Mutual Information-based Generalized Category Discovery

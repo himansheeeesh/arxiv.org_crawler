@@ -1,2 +1,0 @@
-VeriX: Towards Verified Explainability of Deep Neural Networks
-We present VeriX, a first step towards verified explainability of machine learning models in safety-critical applications. Specifically, our sound and optimal explanations can guarantee prediction invariance against bounded perturbations. We utilise constraint solving techniques together with feature sensitivity ranking to efficiently compute these explanations. We evaluate our approach on image recognition benchmarks and a real-world scenario of autonomous aircraft taxiing.

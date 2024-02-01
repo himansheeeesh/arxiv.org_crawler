@@ -1,1 +1,0 @@
-Multimodal Tree Decoder for Table of Contents Extraction in Document Images

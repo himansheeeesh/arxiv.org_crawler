@@ -1,1 +1,0 @@
-LGN-Net: Local-Global Normality Network for Video Anomaly Detection

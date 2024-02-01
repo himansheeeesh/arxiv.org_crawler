@@ -1,1 +1,0 @@
-Delving into Out-of-Distribution Detection with Vision-Language Representations

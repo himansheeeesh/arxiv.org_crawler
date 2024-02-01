@@ -1,1 +1,0 @@
-Rethinking Few-Shot Object Detection on a Multi-Domain Benchmark

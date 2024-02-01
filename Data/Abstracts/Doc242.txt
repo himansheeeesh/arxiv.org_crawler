@@ -1,1 +1,0 @@
-SMAC3: A Versatile Bayesian Optimization Package for Hyperparameter Optimization

@@ -1,1 +1,0 @@
-PIDray: A Large-scale X-ray Benchmark for Real-World Prohibited Item Detection

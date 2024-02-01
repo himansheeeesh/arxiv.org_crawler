@@ -1,1 +1,0 @@
-Simplex Clustering via sBeta with Applications to Online Adjustment of Black-Box Predictions

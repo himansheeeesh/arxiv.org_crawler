@@ -1,2 +1,0 @@
-Connectivity-constrained Interactive Panoptic Segmentation
-We address interactive panoptic annotation, where one segment all object and stuff regions in an image. We investigate two graph-based segmentation algorithms that both enforce connectivity of each region, with a notable class-aware Integer Linear Programming (ILP) formulation that ensures global optimum. Both algorithms can take RGB, or utilize the feature maps from any DCNN, whether trained on the target dataset or not, as input. We then propose an interactive, scribble-based annotation framework.

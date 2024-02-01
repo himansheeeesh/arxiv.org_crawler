@@ -1,1 +1,0 @@
-Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning

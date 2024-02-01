@@ -1,1 +1,0 @@
-The Devil is in the Margin: Margin-based Label Smoothing for Network Calibration

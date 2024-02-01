@@ -1,1 +1,0 @@
-BotSIM: An End-to-End Bot Simulation Toolkit for Commercial Task-Oriented Dialog Systems
